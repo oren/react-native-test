@@ -40,5 +40,3 @@ android/app/libs
 android/keystores/debug.keystore
 
 node_modules
-ios
-android
